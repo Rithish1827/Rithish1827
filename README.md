@@ -6,15 +6,19 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rithish1827&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ## 🧠 About Me
 - 🎓 Studying **Artificial Intelligence and Data Science**
 - 💻 Strong in **Python, Java, and Data Structures**
-- 🧩 Solved **170+ problems on LeetCode**
+- 🧩 Solved **270+ problems on LeetCode**
 - ⭐ HackerRank:
   - Python ⭐⭐⭐⭐
-  - Java ⭐⭐
+  - Java ⭐⭐⭐
   - C language ⭐⭐⭐
-- 🌱 Currently exploring **Data Science & Full Stack Development**
+- 🌱 Currently exploring **Data Science Analyst**
 - ⚡ Fun fact: I trust logic more than guesses 😄
 
 ---
